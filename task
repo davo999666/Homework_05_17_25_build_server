@@ -1,0 +1,6 @@
+// filtration
+// search
+// changes
+// add row
+// connect database -> like sqlite or mongodb or sql
+// create 4 endpoints with methods:Get(by...)x2, Patch(Put one field)x2
